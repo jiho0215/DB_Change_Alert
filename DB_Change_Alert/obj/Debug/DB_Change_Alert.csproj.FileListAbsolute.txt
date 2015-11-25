@@ -1,0 +1,32 @@
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.exe
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.pdb
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csprojResolveAssemblyReference.cache
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Form1.resources
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Properties.Resources.resources
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csproj.GenerateResource.Cache
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.exe
+c:\users\malp0080\documents\visual studio 2015\Projects\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.pdb
+H:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.exe
+H:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.pdb
+H:\Personal\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.exe
+H:\Personal\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.pdb
+H:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csprojResolveAssemblyReference.cache
+H:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Form1.resources
+H:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Properties.Resources.resources
+H:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csproj.GenerateResource.Cache
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.exe
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.pdb
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.exe
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.pdb
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csprojResolveAssemblyReference.cache
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Form1.resources
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Properties.Resources.resources
+C:\Users\MALP0080\Documents\Visual Studio 2015\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csproj.GenerateResource.Cache
+F:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.exe
+F:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.pdb
+F:\Personal\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.exe
+F:\Personal\DB_Change_Alert\DB_Change_Alert\bin\Debug\DB_Change_Alert.pdb
+F:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csprojResolveAssemblyReference.cache
+F:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Form1.resources
+F:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.Properties.Resources.resources
+F:\Personal\DB_Change_Alert\DB_Change_Alert\obj\Debug\DB_Change_Alert.csproj.GenerateResource.Cache
